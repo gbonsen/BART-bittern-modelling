@@ -13,6 +13,7 @@ We used **Bayesian Additive Regression Trees (BART)** to model bittern detection
 ---
 
 ## 📁 Repository Structure
+```
 bittern-bart-modelling/
 ├── scripts/
 │ ├── 01_BART_model_FINAL.R # Data prep, scaling, and BART model fitting
@@ -21,7 +22,7 @@ bittern-bart-modelling/
 │ ├── PDPthresholds_fullModel.png # Partial dependence plots with scenario thresholds
 │ └── bittern_prediction_and_WMAs_aiSmall.png # Predicted habitat suitability map
 ├── BART_model_summary_FINAL.docx # 1-page code summary (optional)
-
+```
 ---
 
 ## 📈 Key Outputs
