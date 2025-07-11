@@ -28,7 +28,7 @@ bittern-bart-modelling/
 
 ![Suitability Map](figures/bittern_predictionMap_and_WMAs.png)
 
-*Predicted bittern habitat suitability based on fixed uniform inputs across the study area.*
+*Predicted bittern habitat suitability based on uniform hydrological inputs across the landscape.*
 
 **Inputs used for prediction:**
 - Buffer inundation: 500 ha  
