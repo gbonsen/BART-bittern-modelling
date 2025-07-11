@@ -48,7 +48,7 @@ Dashed vertical lines indicate **Minimal** (orange) and **Optimal** (green) wate
 
 ---
 
-### 🟢 Scenario-Based Prediction Maps
+### Scenario-Based Prediction Maps
 
 ![Scenario Map](figures/bittern_predictionMap_scenarios.png)
 
